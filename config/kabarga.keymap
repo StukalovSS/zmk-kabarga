@@ -20,7 +20,7 @@
 
 &mt { quick_tap_ms = <220>; };
 
-&led_strip { chain-length = <42>; };
+/* &led_strip { chain-length = <42>; }; */
 
 / {
     macros {
